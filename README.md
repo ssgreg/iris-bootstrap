@@ -1,4 +1,4 @@
 # Iris - URL Shortener
 
- Bootstrap base front end for Iris.
+ Bootstrap based front end for Iris.
  
